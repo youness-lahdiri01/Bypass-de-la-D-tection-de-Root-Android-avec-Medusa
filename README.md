@@ -89,6 +89,7 @@ Ces logs confirment que :
 * Les appels liés au root sont modifiés
 
 ---
+<img width="1918" height="999" alt="Screenshot 2026-04-26 185110" src="https://github.com/user-attachments/assets/477c012b-8ddd-4181-bc30-8ed53a5f9798" />
 
 ## Comportement de l’application
 
